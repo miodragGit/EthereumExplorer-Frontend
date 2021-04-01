@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+.balanceForm{
+  text-align: center;
+  border: solid 1px black;
+  width: 400px;
+  margin: auto;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input1{
+  margin-bottom: 10px;
+}
+
+.input2{
+  margin-bottom: 10px;
+}
+
+.label1{
+ margin-right: 10px;
+}
+
+.label2{
+  margin-right: 10px;
+}
+
+.searchBtn1{
+  
+}
+
+.searchBtn2{
+  margin-bottom: 10px;
+}
+
+.transactionsForm{
+  text-align: center;
+  border: solid 1px black;
+  width: 400px;
+  margin: auto;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.transactionsList{
+  text-align: center;
+  border: solid 1px black;
+  width: 880px;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.transactionsTable{
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
